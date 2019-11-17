@@ -1,15 +1,14 @@
 # Site settings
+author: Giancarlo Zabaleta
 title: Thinking in Code
 header-img: img/home-bg.png
-email: ladanziaee@gmail.com
-copyright_name: Ladanimal
+email: gzabaleta48@gmail.com
+copyright_name: Giancarlo Zabaleta
 description: > # this means to ignore newlines until "baseurl:"
   From literacy to coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
-github_username:  Ladanimal
-learn_profile: Ladanimal
-email_username: ladanziaee@gmail.com
+github_username:  GiancarloZ
 
 # Build settings
 markdown: kramdown
