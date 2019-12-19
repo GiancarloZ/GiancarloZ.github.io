@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project"
-date:       2019-12-19 23:23:50 +0000
+date:       2019-12-19 18:23:51 -0500
 permalink:  rails_portfolio_project
 ---
 
